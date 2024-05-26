@@ -2,12 +2,12 @@
 
 Installation:
 
-Locate your Light Bearers game directory. Go to "/Light Bearers/LightBearers/Content/Paks"
+Locate your Light Bearers game directory. Navigate to "/Light Bearers/LightBearers/Content/Paks"
 
 Create a new folder called "~mods"
 
-Open "~mods" folder and drag the pack that you want
+Open the "~mods" folder and drag the pack that you want into it.
 
-that's all.
+That's all.
 
-P.S. This is the 2 mods for game [Light Bearers](https://store.steampowered.com/app/765710/Light_Bearers/)
+P.S. These are the 2 mods for the game [Light Bearers.](https://store.steampowered.com/app/765710/Light_Bearers/)
